@@ -222,184 +222,184 @@ new Vue({
       teamsAfterPowerPools: [],
       rounds: [[
         {
-          info: 'RO32 1',
+          info: 'Bye (1)',
           teams: [1, 0],
           winner: 1,
           selected: 0,
           bye: true
         },
         {
-          info: 'RO32 2',
+          info: 'RO32 (14 vs 19)',
           teams: [14, 19],
           winner: 0,
           selected: null
         },
         {
-          info: 'RO32 3',
+          info: 'Bye (8)',
           teams: [8, 0],
           winner: 8,
           selected: 0,
           bye: true
         },
         {
-          info: 'RO32 4',
+          info: 'RO32 (11 vs 22)',
           teams: [11, 22],
           winner: 0,
           selected: null
         },
         {
-          info: 'RO32 5',
+          info: 'Bye (4)',
           teams: [4, 0],
           winner: 4,
           selected: 0,
           bye: true
         },
         {
-          info: 'RO32 6',
+          info: 'RO32 (15 vs 18)',
           teams: [15, 18],
           winner: 0,
           selected: null
         },
         {
-          info: 'RO32 7',
+          info: 'Bye (5)',
           teams: [5, 0],
           winner: 5,
           selected: 0,
           bye: true
         },
         {
-          info: 'RO32 8',
+          info: 'RO32 (10 vs 23)',
           teams: [10, 23],
           winner: 0,
           selected: null
         }, {
-          info: 'RO32 9',
+          info: 'Bye (2)',
           teams: [2, 0],
           winner: 2,
           selected: 0,
           bye: true
         },
         {
-          info: 'RO32 10',
+          info: 'RO32 (13 vs 20)',
           teams: [13, 20],
           winner: 0,
           selected: null
         },
         {
-          info: 'RO32 11',
+          info: 'Bye (7)',
           teams: [7, 0],
           winner: 7,
           selected: 0,
           bye: true
         },
         {
-          info: 'RO32 12',
+          info: 'RO32 (12 vs 21)',
           teams: [12, 21],
           winner: 0,
           selected: null
         },
         {
-          info: 'RO32 13',
+          info: 'Bye (3)',
           teams: [3, 0],
           winner: 3,
           selected: 0,
           bye: true
         },
         {
-          info: 'RO32 14',
+          info: 'RO32 (16 vs 17)',
           teams: [16, 17],
           winner: 0,
           selected: null
         },
         {
-          info: 'RO32 15',
+          info: 'Bye (6)',
           teams: [6, 0],
           winner: 6,
           selected: 0,
           bye: true
         },
         {
-          info: 'RO32 16',
+          info: 'RO32 (9 vs 24)',
           teams: [9, 24],
           winner: 0,
           selected: null
         }
       ], [
         {
-          info: 'RO16 1',
+          info: 'RO16 (1 vs 14)',
           winner: 0,
           selected: null
         },
         {
-          info: 'RO16 2',
+          info: 'RO16 (8 vs 11)',
           winner: 0,
           selected: null
         },
         {
-          info: 'RO16 3',
+          info: 'RO16 (4 vs 15)',
           winner: 0,
           selected: null
         },
         {
-          info: 'RO16 4',
+          info: 'RO16 (5 vs 10)',
           winner: 0,
           selected: null
         },
         {
-          info: 'RO16 5',
+          info: 'RO16 (2 vs 13)',
           winner: 0,
           selected: null
         },
         {
-          info: 'RO16 6',
+          info: 'RO16 (7 vs 12)',
           winner: 0,
           selected: null
         },
         {
-          info: 'RO16 7',
+          info: 'RO16 (3 vs 16)',
           winner: 0,
           selected: null
         },
         {
-          info: 'RO16 8',
+          info: 'RO16 (6 vs 9)',
           winner: 0,
           selected: null
         }
       ], [
         {
-          info: 'QF 1',
+          info: 'QF (1 vs 8)',
           winner: 0,
           selected: null
         },
         {
-          info: 'QF 2',
+          info: 'QF (4 vs 5)',
           winner: 0,
           selected: null
         },
         {
-          info: 'QF 3',
+          info: 'QF (2 vs 7)',
           winner: 0,
           selected: null
         },
         {
-          info: 'QF 4',
+          info: 'QF (3 vs 6)',
           winner: 0,
           selected: null
         }
       ], [
         {
-          info: 'SF 1',
+          info: 'SF (1 vs 4)',
           winner: 0,
           selected: null
         },
         {
-          info: 'SF 2',
+          info: 'SF (2 vs 3)',
           winner: 0,
           selected: null
         }
       ], [
         {
-          info: 'Final',
+          info: 'Final (1 vs 2)',
           winner: 0,
           selected: null
         }
