@@ -413,7 +413,8 @@ new Vue({
   methods: {
     updatePowerPoolInitialData() {
       this.teamsAfterPools = this.teamListAfterPools();
-    this.powerPoolData = this.updatePowerPoolData();
+      this.powerPoolData = this.updatePowerPoolData();
+      this.updateBracketInitialData();
     },
     updateBracketInitialData() {
       this.teamsAfterPowerPools = this.teamListAfterPowerPools();
